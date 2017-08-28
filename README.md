@@ -31,6 +31,4 @@ Documentação do Java, incluindo várias API's utilizadas neste projeto.
 
 Link Descoberto: http://docs.oracle.com/javase/6/docs/api/
 
-###### Referencia Bibliografica
-
 
